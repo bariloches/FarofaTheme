@@ -24,7 +24,7 @@
         "subscriber":           null,
         "silversubscriber":     null,
         "friend":               null,
-        "user":                 "#800000",
+        "user":                 null,
     },
     "images": {
         "background":           "http://i.imgur.com/6Q8oUW1.png",
