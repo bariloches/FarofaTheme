@@ -1,8 +1,8 @@
 {
-    "room":                     "Farofa Pop",
-    "author":                   "BARILOCHE",
-    "icon":                     "http://i.imgur.com/Xnbub7N.gif",
-    "css":                      "https://rawgit.com/BotFarofa/farofatheme/master/frf.css",
+    "room":                     "World of Pop",
+    "author":                   "Lobato",
+    "icon":                     null,
+    "css":                      "https://rawgit.com/bariloches/ThemeWoP/master/room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -16,8 +16,8 @@
     "ccc": {
         "admin":                null,
         "ambassador":           null,
-        "host":                 "#3086fc",
-        "cohost":               "#3086fc",
+        "host":                 "#42A5DC",
+        "cohost":               "#42A5DC",
         "manager":              "#FFC0CB",
         "bouncer":              "#FFC0CB",
         "rdj":                  "#5DB4FF",
