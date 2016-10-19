@@ -2,7 +2,7 @@
     "room":                     "World of Pop",
     "author":                   "Lobato",
     "icon":                     null,
-    "css":                      "https://rawgit.com/bariloches/ThemeWoP/master/room.css",
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
