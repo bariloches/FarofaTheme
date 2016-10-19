@@ -1,8 +1,8 @@
 {
     "room":                     "World of Pop",
     "author":                   "Lobato",
-    "icon":                     "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "icon":                     null,
+    "css":                      "https://rawgit.com/frootado/ThemeWoP/master/room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -27,7 +27,7 @@
         "user":                 null,
     },
     "images": {
-        "background":           "http://i.imgur.com/6Q8oUW1.png",
+        "background":           "http://i.imgur.com/mfAQXkl.jpg",
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
