@@ -1,0 +1,45 @@
+{
+    "room": "World of Pop",
+    "author": "Lobato",
+    "icon": null,
+    "css": "https://cdn.radiant.dj/rcs/rs_room.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#42A5DC",
+        "cohost": "#42A5DC",
+        "manager": "#FFC0CB",
+        "bouncer": "#FFC0CB",
+        "rdj": "#5DB4FF",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "cohost": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "manager": "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+        "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber": null,
+        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
