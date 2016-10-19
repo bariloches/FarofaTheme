@@ -1,7 +1,7 @@
 {
     "room":                     "World of Pop",
     "author":                   "Lobato",
-    "icon":                     null,
+    "icon":                     "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
